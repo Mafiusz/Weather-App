@@ -18,7 +18,7 @@ Users should be able to:
 -   search current weather by geolocation,
 -   search current weather by typing valid city name
 
-# 🟢 Live demo [Weather App]()
+# 🟢 Live demo [Weather App](https://regal-ganache-76f884.netlify.app/)
 
 # 📷 Screenshot
 
